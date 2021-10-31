@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=brenner8023)]()
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenner8023&show_icons=true&icon_color=79ff97&text_color=fff&bg_color=7373a8&hide_title=false&title_color=fff&disable_animations=false&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenner8023&show_icons=true&theme=radical&layout=compact&hide=html,css&hide_border=true&icon_color=79ff97&text_color=fff&bg_color=7373a8&title_color=fff&langs_count=6)
 
 <!--
 **brenner8023/brenner8023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
