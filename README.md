@@ -14,6 +14,11 @@
         掘金
       </a>
     </td>
+    <td>
+      <a href="https://afdian.net/a/vue666" target="_blank">
+        支持我
+      </a>
+    </td>
   </tr>
 </table>
 
