@@ -19,16 +19,11 @@
 <table>
   <tr>
     <td>
-      <a href="https://xn--57qpo752fxph-5361.xlog.app/" target="_blank">xlog</a>
+      <a href="https://vue666.vercel.app/" target="_blank">blog</a>
     </td>
     <td>
       <a href="https://afdian.net/a/vue666" target="_blank">
         爱发电
-      </a>
-    </td>
-    <td>
-      <a href="https://juejin.cn/user/1996368846785128" target="_blank">
-        掘金
       </a>
     </td>
   </tr>
