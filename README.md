@@ -1,3 +1,6 @@
+
+<h1><img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=Hello,I'm+前端爆冲."></h1>
+
 <a href="https://github.com/pulls?q=author%3Abrenner8023">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=brenner8023&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
