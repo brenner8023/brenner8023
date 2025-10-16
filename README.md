@@ -1,7 +1,7 @@
 
 <h1><img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=Hello,I'm+前端爆冲."></h1>
 
-[![Stats PR Issue](https://github-readme-stats-sooniter.vercel.app/api?username=brenner8023&amp;show_icons=true)](https://github.com/brenner8023)
+Know is know, no know is no know.
 
 ### Active on
 
